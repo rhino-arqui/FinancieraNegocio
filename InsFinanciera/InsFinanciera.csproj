@@ -175,6 +175,7 @@
     <Content Include="Models\ModelHistorial.edmx.diagram">
       <DependentUpon>ModelHistorial.edmx</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
